@@ -37,7 +37,7 @@
     },
     "zh": {
       "name": "Iron Bank",
-      "description": "Iron Bank is a protocol-to-protocol lending platform and liquidity backstop for the entire DeFi ecosystem. It offers whitelisted protocols access to uncollateralized loans."
+      "description": "Iron Bank 是协议对协议的借贷平台，为整个 DeFi 生态提供流动性支持。上了白名单的协议可以在 Iron Bank 无抵押借款。"
     },
     "hi": {
       "name": "Iron Bank",
